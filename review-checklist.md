@@ -149,3 +149,13 @@
        *  Does the specification discuss how to manage aspects of
           security, such as access controls, managing key distribution,
           etc.
+
+##  Documentation
+
+   Is an operational considerations and/or manageability section part of
+   the document?
+
+   Does the proposed protocol have a significant operational impact on
+   the Internet?
+
+   Is there proof of implementation and/or operational experience.
