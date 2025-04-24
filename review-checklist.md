@@ -152,10 +152,10 @@
 
 ##  Documentation
 
-   Is an operational considerations and/or manageability section part of
+   1. Is an operational considerations and/or manageability section part of
    the document?
 
-   Does the proposed protocol have a significant operational impact on
+   2. Does the proposed protocol have a significant operational impact on
    the Internet?
 
-   Is there proof of implementation and/or operational experience.
+   3. Is there proof of implementation and/or operational experience?
