@@ -4,11 +4,11 @@ Hello,
 
 I have been selected as the Operations Directorate (opsdir) reviewer for this draft. 
 
-The Operations Directorate reviews all operational and management-related drafts during IETF Last Call and IESG evaluation to ensure alignment with operational best practices.
+The Operations Directorate reviews all operational and management-related drafts to ensure alignment with operational best practices.
 
-For more information about opsdir, see https://wiki.ietf.org/group/ops/OpsDir. 
+More "Guidelines for Considering Operations and Management in IETF Specifications" can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
 
-While these comments are primarily for the Ops ADs, the authors should consider them alongside other Last Call feedback and address them through updates or discussions. 
+While these comments are primarily for the OPS ADs, the authors should consider them alongside other feedback and address them through updates or discussions. 
 
 
 **Document**: [Draft Name and Version] 
@@ -35,20 +35,18 @@ Choose one:
 
 - **Minor concerns/nits** that should be resolved before publication. 
 
-- **Significant concerns** requiring discussion between authors and Ops ADs. 
-
+- **Significant concerns** requiring discussion between authors and OPS ADs. 
  
-
 
 ## **General Operational Comments Alignment with RFC 5706bis** 
 
-Provide an overview of the draft’s operational feasibility, readability, and alignment with RFC 5706bis guidelines. Example: 
+Provide an overview of the draft’s operational feasibility, readability, and alignment with RFC5706bis guidelines. Example: 
 
 > *This document defines a mechanism for [X]. While the technical approach is sound, Section [X] lacks clarity on how the mechanism would deploy.
 
- The Operational Considerations section (Section 5) should be expanded to address [Z].* 
+The Operational Considerations section (Section 5) should be expanded to address [Z].* 
 
- 
+
 
 Explicitly evaluate compliance with operational guidelines (optional but recommended): 
 
@@ -61,7 +59,7 @@ for example the check list:
 - **Performance Monitoring**: Are metrics (e.g., latency, resource usage) exposed? 
 
 | **Review Item**                | **RFC 5706 Considerations**                                                                               
-|-------------------------------- |-------------------------------------------------------------------------------------------------------
+|------------------------------- |-------------------------------------------------------------------------------------------------------
 | Deployment                     | Does the document include a description of how this protocol or technology is going to be deployed and managed? 
 | Installation and Initial Setup | Are configuration parameters clearly identified and do they have reasonable default values?           
 | Migration Path                 | Are there any backward compatibility issues?                                                         
@@ -79,7 +77,7 @@ https://www.rfc-editor.org/rfc/rfc6123.html
 
 ## **Major Issues** 
 
-List critical problems blocking publication (e.g., protocol flaws, missing operational safeguards). Include section/paragraph references. 
+List critical problems blocking publication (e.g., protocol flaws, missing operational safeguards, lack of manageability considerations). Include section/paragraph references. 
 
 - **Example**: 
 
