@@ -44,7 +44,7 @@ Provide an overview of the draft’s operational feasibility, readability, and a
 
 > *This document defines a mechanism for [X]. While the technical approach is sound, Section [X] lacks clarity on how the mechanism would deploy.
 
-The Operational Considerations section (Section 5) should be expanded to address [Z].* 
+The Operational Considerations section (Section X) should be expanded to address [Z].* 
 
 
 
@@ -71,7 +71,7 @@ for example the check list:
 
 For routing protocols, example as 
 
-https://www.rfc-editor.org/rfc/rfc6123.html
+[RFC 6123 – Inclusion of Manageability Sections in Path Computation Element (PCE) Working Group Drafts](https://www.rfc-editor.org/rfc/rfc6123.html)
 
   
 
@@ -97,7 +97,7 @@ List non-blocking but important clarifications (e.g., ambiguous terminology, inc
 
 - **Example**: 
 
- \> *Section 2.1 uses "node" without defining its scope (physical/virtual). Add a reference to RFC 8345 for consistency.* 
+ > *Section 2.1 uses "node" without defining its scope (physical/virtual). Add a reference to RFC 8345 for consistency.* 
 
 - If none: 
 
@@ -115,7 +115,7 @@ Optional editorial suggestions (e.g., acronym expansions, grammar fixes).
 
 - **Example**: 
 
- > *Abstract: Expand "NFV" on first use. 
+ > *Abstract*: Expand "NFV" on first use. 
 
  > Section 3.1: "it’s" → "its".* 
 
