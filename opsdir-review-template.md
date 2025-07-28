@@ -8,7 +8,7 @@ The Operations Directorate reviews all operational and management-related drafts
 
 More "Guidelines for Considering Operations and Management in IETF Specifications" can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
 
-While these comments are primarily for the OPS ADs, the authors should consider them alongside other feedback and address them through updates or discussions. 
+While these comments are primarily for the OPS ADs, the authors should consider them alongside other feedback received. 
 
 
 **Document**: [Draft Name and Version] 
@@ -16,8 +16,6 @@ While these comments are primarily for the OPS ADs, the authors should consider 
 **Reviewer**: [Your Name] 
 
 **Review Date**: [Date] 
-
-**IETF LC End Date**: [Date] 
 
 **Intended Status**: [Proposed Status, e.g., Standards Track] 
 
@@ -37,6 +35,7 @@ Choose one:
 
 - **Significant concerns** requiring discussion between authors and OPS ADs. 
  
+- **Major concerns**. This document has major issues that should be addressed before publication.
 
 ## **General Operational Comments Alignment with RFC 5706bis** 
 
@@ -54,18 +53,18 @@ for example the check list:
 
 - **Fault Management**: Are failure detection/recovery mechanisms specified? 
 
-- **Configuration Management**: Are atomic changes and rollback procedures defined? 
+- **Configuration Management**: Are configuration changes to enable/disable the feature clearly defined? 
 
-- **Performance Monitoring**: Are metrics (e.g., latency, resource usage) exposed? 
+- **Performance Monitoring**: Are metrics (e.g., latency, resource usage) clearly identified? 
 
 | **Review Item**                | **RFC 5706 Considerations**                                                                               
 |------------------------------- |-------------------------------------------------------------------------------------------------------
 | Deployment                     | Does the document include a description of how this protocol or technology is going to be deployed and managed? 
 | Installation and Initial Setup | Are configuration parameters clearly identified and do they have reasonable default values?           
-| Migration Path                 | Are there any backward compatibility issues?                                                         
-| Requirements on Other Protocols| What protocol operations are expected to be performed relative to the new protocol or technology?    
-| Impact on Network Operation    | Will the new protocol significantly increase traffic load on existing networks?                       
-| Verifying Correct Operation    | How can one test end-to-end connectivity and throughput?                                            
+| Migration Path                 | Is a path to migrate existing configuration clearly articualted? Are there any backward compatibility issues?                                                         
+| Requirements on Other Protocols| What other protocol operations are expected to be performed relative to the new protocol or technology?    
+| Impact on Network Operation    | Will the new protocol significantly increase traffic load on existing networks or affect the control plane?                       
+| Verifying Correct Operation    | For example, how can one test end-to-end connectivity and throughput?                                            
 
  
 
@@ -133,7 +132,7 @@ Optional editorial suggestions (e.g., acronym expansions, grammar fixes).
 
  
 
-Thank you for your work on this document. Please address these comments or contact me for clarification. 
+Thank you for your work on this document. Please address these comments or feel free to contact me for clarification. 
 
  
 
