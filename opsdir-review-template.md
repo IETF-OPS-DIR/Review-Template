@@ -20,36 +20,34 @@ While these comments are primarily for the OPS ADs, the authors should consider 
 **Intended Status**: [Proposed Status, e.g., Standards Track] 
 
  
-
 ---
-
- 
 
 ## **Summary** 
 
 Choose one: 
 
-- **No issues found**. This document is ready for publication. 
+- **Ready**: No issues found. This document is ready for publication. 
 
-- **Minor concerns/nits** that should be resolved before publication. 
+- **Nits**: This document is basically ready for publication but has nits that should be considered prior to publication.
 
-- **Significant concerns** requiring discussion between authors and OPS ADs. 
+- **Has issues**: I have some minor concerns about this document that I think should be resolved before publication.
  
-- **Major concerns**. This document has major issues that should be addressed before publication.
+- **Major issues**: I have significant concerns about this document and recommend that the OPS ADs discuss these issues further with the authors.
+
 
 ## **General Operational Comments Alignment with RFC 5706bis** 
 
 Provide an overview of the draft’s operational feasibility, readability, and alignment with RFC5706bis guidelines. Example: 
 
-> *This document defines a mechanism for [X]. While the technical approach is sound, Section [X] lacks clarity on how the mechanism would deploy.
+> *This document defines a mechanism for [X]. While the technical approach is sound, Section [X] lacks clarity on how the mechanism would deploy.*
 
-The Operational Considerations section (Section X) should be expanded to address [Z].* 
+> *The Operational Considerations section (Section X) should be expanded to address [Z].* 
 
 
 
 Explicitly evaluate compliance with operational guidelines (optional but recommended): 
 
-for example the check list: 
+For example the check list: 
 
 - **Fault Management**: Are failure detection/recovery mechanisms specified? 
 
@@ -67,7 +65,6 @@ for example the check list:
 | Verifying Correct Operation    | For example, how can one test end-to-end connectivity and throughput?                                            
 
  
-
 For routing protocols, example as 
 
 [RFC 6123 – Inclusion of Manageability Sections in Path Computation Element (PCE) Working Group Drafts](https://www.rfc-editor.org/rfc/rfc6123.html)
@@ -103,10 +100,7 @@ List non-blocking but important clarifications (e.g., ambiguous terminology, inc
  > *No minor issues found.* 
 
  
-
 ---
-
- 
 
 ## **Nits** 
 
@@ -118,14 +112,8 @@ Optional editorial suggestions (e.g., acronym expansions, grammar fixes).
 
  > Section 3.1: "it’s" → "its".* 
 
- 
 
 ---
-
- 
-
- 
-
  
 
 ---
