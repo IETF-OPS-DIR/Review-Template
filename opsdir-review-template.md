@@ -1,23 +1,23 @@
-# ops-dir Review Template
+# Ops-Dir Review Template
 
-Hello, 
+Hello,
 
-I have been selected as the Operations Directorate (opsdir) reviewer for this draft. 
+I have been selected as the Operational Directorate (opsdir) reviewer for this Internet-Draft. 
 
-The Operations Directorate reviews all operational and management-related drafts to ensure alignment with operational best practices.
+The Operational Directorate reviews all operational and management-related Internet-Draft to ensure alignment with operational best practices.
 
-More "Guidelines for Considering Operations and Management in IETF Specifications" can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
+A complete set of _"Guidelines for Considering Operations and Management in IETF Specifications"_ can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
 
-While these comments are primarily for the OPS ADs, the authors should consider them alongside other feedback received. 
+While these comments are primarily for the Operations and Management Area Directors (Ops ADs), the authors should consider them alongside other feedback received.
 
 
-**Document**: [Draft Name and Version] 
+**Document**: [Internet-Draft Name and Revision]
 
-**Reviewer**: [Your Name] 
+**Reviewer**: [Your Name]
 
-**Review Date**: [Date] 
+**Review Date**: [Date, in internationally unambiguous format]
 
-**Intended Status**: [Proposed Status, e.g., Standards Track] 
+**Intended Status**: [Proposed Standard, e.g., Standards Track] 
 
  
 ---
@@ -28,11 +28,11 @@ Choose one:
 
 - **Ready**: No issues found. This document is ready for publication. 
 
-- **Nits**: This document is basically ready for publication but has nits that should be considered prior to publication.
+- **Has Nits**: This document is basically ready for publication but has nits that should be considered prior to publication.
 
-- **Has issues**: I have some minor concerns about this document that I think should be resolved before publication.
+- **Has Issues**: I have some minor concerns about this document that I think should be resolved before publication.
  
-- **Major issues**: I have significant concerns about this document and recommend that the OPS ADs discuss these issues further with the authors.
+- **Has Major Issues**: I have significant concerns about this document and recommend that the OPS ADs discuss these issues further with the authors.
 
 
 ## **General Operational Comments Alignment with RFC 5706bis** 
@@ -110,7 +110,7 @@ Optional editorial suggestions (e.g., acronym expansions, grammar fixes).
 
  > *Abstract*: Expand "NFV" on first use. 
 
- > Section 3.1: "it’s" → "its".* 
+ > Section 3.1: "it’s" -> "its".* 
 
 
 ---
@@ -118,11 +118,9 @@ Optional editorial suggestions (e.g., acronym expansions, grammar fixes).
 
 ---
 
- 
 
-Thank you for your work on this document. Please address these comments or feel free to contact me for clarification. 
+Thank you for your work on this document. Please address these comments and feel free to contact me for clarification and/or discussion.
 
- 
 
 Best regards, 
 
