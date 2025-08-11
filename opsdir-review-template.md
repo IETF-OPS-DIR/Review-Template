@@ -1,10 +1,10 @@
 # Ops-Dir Review Template
 
-Hello,
+Hi,
 
 I have been selected as the Operational Directorate (opsdir) reviewer for this Internet-Draft. 
 
-The Operational Directorate reviews all operational and management-related Internet-Draft to ensure alignment with operational best practices.
+The Operational Directorate reviews all operational and management-related Internet-Drafts to ensure alignment with operational best practices and that adequate operational considerations are covered.
 
 A complete set of _"Guidelines for Considering Operations and Management in IETF Specifications"_ can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
 
@@ -15,9 +15,9 @@ While these comments are primarily for the Operations and Management Area Direct
 
 **Reviewer**: [Your Name]
 
-**Review Date**: [Date, in internationally unambiguous format]
+**Review Date**: [Date]
 
-**Intended Status**: [Proposed Standard, e.g., Standards Track] 
+**Intended Status**: [Proposed Status, e.g., Standards Track] 
 
  
 ---
@@ -73,7 +73,7 @@ For routing protocols, example as
 
 ## **Major Issues** 
 
-List critical problems blocking publication (e.g., protocol flaws, missing operational safeguards, lack of manageability considerations). Include section/paragraph references. 
+List critical problems blocking publication (e.g., protocol flaws, missing operational safeguards, or lack of manageability considerations). Include section/paragraph references. 
 
 - **Example**: 
 
@@ -89,7 +89,7 @@ List critical problems blocking publication (e.g., protocol flaws, missing opera
 
 ## **Minor Issues** 
 
-List non-blocking but important clarifications (e.g., ambiguous terminology, incomplete examples). 
+List non-blocking but important clarifications (e.g., ambiguous terminology or incomplete examples). 
 
 - **Example**: 
 
@@ -104,7 +104,7 @@ List non-blocking but important clarifications (e.g., ambiguous terminology, inc
 
 ## **Nits** 
 
-Optional editorial suggestions (e.g., acronym expansions, grammar fixes). 
+Optional editorial suggestions (e.g., acronym expansions or grammar fixes). 
 
 - **Example**: 
 
@@ -119,7 +119,7 @@ Optional editorial suggestions (e.g., acronym expansions, grammar fixes).
 ---
 
 
-Thank you for your work on this document. Please address these comments and feel free to contact me for clarification and/or discussion.
+Thank you for your work on this document. Please address these comments or feel free to contact me for clarification and/or discussion.
 
 
 Best regards, 
