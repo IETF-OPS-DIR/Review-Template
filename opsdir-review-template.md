@@ -2,14 +2,12 @@
 
 Hi,
 
+
 I have been selected as the Operational Directorate (opsdir) reviewer for this Internet-Draft. 
 
-The Operational Directorate reviews all operational and management-related Internet-Drafts to ensure alignment with operational best practices and that adequate operational considerations are covered.
+The Operations Directorate reviews Internet-Drafts to ensure alignment with operational best practices and that adequate operational considerations are covered.
 
 A complete set of _"Guidelines for Considering Operations and Management in IETF Specifications"_ can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
-
-While these comments are primarily for the Operations and Management Area Directors (Ops ADs), the authors should consider them alongside other feedback received.
-
 
 **Document**: [Internet-Draft Name and Revision]
 
@@ -59,13 +57,13 @@ For example the check list:
 |------------------------------- |-------------------------------------------------------------------------------------------------------
 | Deployment                     | Does the document include a description of how this protocol or technology is going to be deployed and managed? 
 | Installation and Initial Setup | Are configuration parameters clearly identified and do they have reasonable default values?           
-| Migration Path                 | Is a path to migrate existing configuration clearly articualted? Are there any backward compatibility issues?                                                         
+| Migration Path                 | Is a path to migrate existing configuration clearly articulated? Are there any backward compatibility issues?                        
 | Requirements on Other Protocols| What other protocol operations are expected to be performed relative to the new protocol or technology?    
 | Impact on Network Operation    | Will the new protocol significantly increase traffic load on existing networks or affect the control plane?                       
 | Verifying Correct Operation    | For example, how can one test end-to-end connectivity and throughput?                                            
 
  
-For routing protocols, example as 
+For routing protocols, an example is: 
 
 [RFC 6123 – Inclusion of Manageability Sections in Path Computation Element (PCE) Working Group Drafts](https://www.rfc-editor.org/rfc/rfc6123.html)
 
