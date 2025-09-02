@@ -1,50 +1,51 @@
-# ops-dir Review Template
+# Ops-Dir Review Template
 
-Hi, 
+Hi,
 
-I have been selected as the Operations Directorate (opsdir) reviewer for this draft. 
+
+I have been selected as the Operational Directorate (opsdir) reviewer for this Internet-Draft. 
 
 The Operations Directorate reviews Internet-Drafts to ensure alignment with operational best practices and that adequate operational considerations are covered.
 
-More "Guidelines for Considering Operations and Management in IETF Specifications" can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
+A complete set of _"Guidelines for Considering Operations and Management in IETF Specifications"_ can be found at https://datatracker.ietf.org/doc/draft-opsarea-rfc5706bis/.
 
-**Document**: [Draft Name and Version] 
+**Document**: [Internet-Draft Name and Revision]
 
-**Reviewer**: [Your Name] 
+**Reviewer**: [Your Name]
 
-**Review Date**: [Date] 
+**Review Date**: [Date]
 
 **Intended Status**: [Proposed Status, e.g., Standards Track] 
 
-
----
  
+---
 
 ## **Summary** 
 
 Choose one: 
 
-- **No issues found**. This document is ready for publication. 
+- **Ready**: No issues found. This document is ready for publication. 
 
-- **Minor concerns/nits** that should be resolved before publication. 
+- **Has Nits**: This document is basically ready for publication but has nits that should be considered prior to publication.
 
-- **Significant concerns** requiring discussion between authors and OPS ADs. 
+- **Has Issues**: I have some minor concerns about this document that I think should be resolved before publication.
  
-- **Major concerns**. This document has major issues that should be addressed before publication.
+- **Has Major Issues**: I have significant concerns about this document and recommend that the OPS ADs discuss these issues further with the authors.
+
 
 ## **General Operational Comments Alignment with RFC 5706bis** 
 
 Provide an overview of the draft’s operational feasibility, readability, and alignment with RFC5706bis guidelines. Example: 
 
-> *This document defines a mechanism for [X]. While the technical approach is sound, Section [X] lacks clarity on how the mechanism would deploy.
+> *This document defines a mechanism for [X]. While the technical approach is sound, Section [X] lacks clarity on how the mechanism would deploy.*
 
-The Operational Considerations section (Section X) should be expanded to address [Z].* 
+> *The Operational Considerations section (Section X) should be expanded to address [Z].* 
 
 
 
 Explicitly evaluate compliance with operational guidelines (optional but recommended): 
 
-for example the check list: 
+For example the check list: 
 
 - **Fault Management**: Are failure detection/recovery mechanisms specified? 
 
@@ -62,8 +63,7 @@ for example the check list:
 | Verifying Correct Operation    | For example, how can one test end-to-end connectivity and throughput?                                            
 
  
-
-For routing protocols, example as 
+For routing protocols, an example is: 
 
 [RFC 6123 – Inclusion of Manageability Sections in Path Computation Element (PCE) Working Group Drafts](https://www.rfc-editor.org/rfc/rfc6123.html)
 
@@ -98,10 +98,7 @@ List non-blocking but important clarifications (e.g., ambiguous terminology or i
  > *No minor issues found.* 
 
  
-
 ---
-
- 
 
 ## **Nits** 
 
@@ -111,25 +108,17 @@ Optional editorial suggestions (e.g., acronym expansions or grammar fixes).
 
  > *Abstract*: Expand "NFV" on first use. 
 
- > Section 3.1: "it’s" → "its".* 
+ > Section 3.1: "it’s" -> "its".* 
 
+
+---
  
 
 ---
 
- 
 
- 
+Thank you for your work on this document. Please address these comments or feel free to contact me for clarification and/or discussion.
 
- 
-
----
-
- 
-
-Thank you for your work on this document. Please address these comments or feel free to contact me for clarification. 
-
- 
 
 Best regards, 
 
