@@ -56,7 +56,7 @@ for example the check list:
 |------------------------------- |-------------------------------------------------------------------------------------------------------
 | Deployment                     | Does the document include a description of how this protocol or technology is going to be deployed and managed? 
 | Installation and Initial Setup | Are configuration parameters clearly identified and do they have reasonable default values?           
-| Migration Path                 | Is a path to migrate existing configuration clearly articualted? Are there any backward compatibility issues?                        
+| Migration Path                 | Is a path to migrate existing configuration clearly articulated? Are there any backward compatibility issues?                        
 | Requirements on Other Protocols| What other protocol operations are expected to be performed relative to the new protocol or technology?    
 | Impact on Network Operation    | Will the new protocol significantly increase traffic load on existing networks or affect the control plane?                       
 | Verifying Correct Operation    | For example, how can one test end-to-end connectivity and throughput?                                            
